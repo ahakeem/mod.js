@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.1",
+  "authors": [
+    "yangdeliang <yangdeliang@autohello.com>"
+  ],
+  "description": "test",
+  "main": "index.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "test",
+    "modjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
